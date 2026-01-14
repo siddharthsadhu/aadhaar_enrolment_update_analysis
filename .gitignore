@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Government datasets
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
